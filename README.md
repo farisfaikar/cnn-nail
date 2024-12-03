@@ -33,24 +33,22 @@ Ensure you have the following installed on your system:
    git clone https://github.com/your-username/cnn-nail.git  
    cd cnn-nail  
    ```
+2. **Setup the Virtual Environment:**
 
-2. **Setup the Virtual Engironment:**
-
-    ```bash
-    python -m venv cnn-nail-env  
-    source cnn-nail-env/bin/activate   # On Windows cnn-nail-env\Scripts\activate  
-    ```
-
+   ```bash
+   python -m venv cnn-nail-env  
+   source cnn-nail-env/bin/activate   # On Windows cnn-nail-env\Scripts\activate  
+   ```
 3. **Start Jupyter Notebook:**
 
-    ```bash
-    jupyter notebook
-    ```
+   ```bash
+   jupyter notebook
+   ```
 4. **Open the .ipynb Files:**
 
-    - Navigate to the .ipynb files in the Jupyter interface and open them.
-    - Follow the cells in order to preprocess data, train the model, and evaluate it.
+   - Navigate to the .ipynb files in the Jupyter interface and open them.
+   - Follow the cells in order to preprocess data, train the model, and evaluate it.
 
 ## License
-This project is licensed under the MIT License.
 
+This project is licensed under the MIT License.
