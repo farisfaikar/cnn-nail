@@ -1,5 +1,7 @@
 # AI
 Models/
+Dataset/
+OldDataset/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
